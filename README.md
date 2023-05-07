@@ -1,6 +1,6 @@
 - 👋 Hi, This is AlphaOmega
 - 👀 I’m interested in lots of random stuff
-- 🌱 I’m currently learning how to destroy the world
+- 🌱 I’m currently learning how to create chaos
 - 💞️ I’m looking to collaborate on destruction
 
 <!---
